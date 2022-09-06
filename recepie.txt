@@ -4,3 +4,5 @@ Pizza
 Burger
 Coke
 Cake
+Icecream
+Snacks
